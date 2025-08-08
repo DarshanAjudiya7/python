@@ -1,5 +1,5 @@
 
-````markdown
+
 # 🐍 Python Practice Set – 10 Chapters of Pure Learning
 
 Welcome to the **ultimate Python practice hub**!  
@@ -9,7 +9,7 @@ From your very first `print()` statement to mastering advanced concepts, this re
 
 ## 📂 Repository Structure
 
-```text
+
 python/
 ├── Chapter_01_Basics
 ├── Chapter_02_Operators_Expressions
@@ -21,7 +21,7 @@ python/
 ├── Chapter_08_Tuples
 ├── Chapter_09_Dictionaries
 └── Chapter_10_File_Handling
-````
+
 
 Each chapter is a **self-contained folder** with exercises, examples, and notes.
 
@@ -90,5 +90,4 @@ Want to make it even better?
 
 Happy coding! 🖤
 
-```
 
