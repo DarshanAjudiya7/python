@@ -22,7 +22,7 @@ python/
 ├── Chapter_09_Dictionaries
 └── Chapter_10_File_Handling
 Each chapter is a self-contained folder with exercises, examples, and notes.
-
+```
 ---
 
 ## 🌟 Why You'll Love This Repo
