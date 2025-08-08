@@ -9,7 +9,6 @@ From your very first `print()` statement to mastering advanced concepts, this re
 
 ## 📂 Repository Structure
 
-
 python/
 ├── Chapter_01_Basics
 ├── Chapter_02_Operators_Expressions
